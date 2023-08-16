@@ -1,0 +1,28 @@
+{
+    "tileList" : [
+        {
+            "header" : "My Fist Tile",
+            "subheader": "1st",
+            "unit": "Unit",
+            "footer": "My first footer",
+            "value": "1762",
+            "icon": "sap-icon://line-charts"
+        },
+        {
+            "header" : "My Second Tile",
+            "subheader": "2nd",
+            "unit": "Unit",
+            "footer": "My first footer",
+            "value": "1762",
+            "icon": "sap-icon://line-charts"
+        },
+        {
+            "header" : "My Third Tile",
+            "subheader": "3rd",
+            "unit": "Unit",
+            "footer": "My first footer",
+            "value": "1762",
+            "icon": "sap-icon://line-charts"
+        }
+    ]
+}

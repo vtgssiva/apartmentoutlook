@@ -1,0 +1,35 @@
+{
+
+    "uaa_prod": {
+      "tenantmode": "dedicated",
+      "sburl": "https://internal-xsuaa.authentication.eu10.hana.ondemand.com",
+      "clientid": "sb-cf-admincockpit-xsuaa!t47030",
+      "xsappname": "cf-admincockpit-xsuaa!t47030",
+      "clientsecret": "4zuJ4M02ecQXzYDucZA6vNhNBxI=",
+      "url": "https://opsprod.authentication.eu10.hana.ondemand.com",
+      "uaadomain": "authentication.eu10.hana.ondemand.com",
+      "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqbLJEXC9afaCoLWlesF3Cn8NU9ZA3KOAIVQzBP55548xdnWkSSNs5DitqfWQ/l8A/4SSkyC72AUK6mVZwXkZ3xIRAqk91D5b+EMKzuRPwv6ShwhXUGRGYHdiaWOraVWeon/n0QQs4Uu30QgZYfv1GD+d2tDf4+HsSN9sTtReuFD6AeqTSEHr2xVIQHYTrjMqEB7QirBYbgbVbh3CshwxmYPDvOXar3S2RN/8Af8PY6NIkgrEl6bTq7NA6tSQBM9hKLL5awH4cEfENVQrtb+ZbMBE8suu3hFtsN/FrxuZNQioDTHu8MNrCH+mEncAcKue3LTRVXdxzbbySjYSGjTyuwIDAQAB-----END PUBLIC KEY-----",
+      "apiurl": "https://api.authentication.eu10.hana.ondemand.com",
+      "identityzone": "opsprod",
+      "identityzoneid": "3be5bda6-6ae4-41fb-918b-eed35b4ba165",
+      "tenantid": "3be5bda6-6ae4-41fb-918b-eed35b4ba165"
+    },
+  
+    "uaa": {
+      "tenantmode": "dedicated",
+      "sburl": "https://internal-xsuaa.authentication.sap.hana.ondemand.com",
+      "subaccountid": "0693a963-dfa8-4635-9a34-37808e83ee94",
+      "credential-type": "instance-secret",
+      "clientid": "sb-cf-admincockpit-xsuaa!t12288",
+      "xsappname": "cf-admincockpit-xsuaa!t12288",
+      "clientsecret": "D1m5egLjM3vG9C0CG1RIBv/AqAc=",
+      "url": "https://opsintdev.authentication.sap.hana.ondemand.com",
+      "uaadomain": "authentication.sap.hana.ondemand.com",
+      "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjmFt1cpd2N8pquYH3visui4QJy6RzRk2dkVpUs5N9YBkupSUgGYqtxDpDWmdryA3m9NV3URHWOCJgkhoOIk0QpTSjCeyCKlYDWVomKMKphSLQ42kP9fYFDzGEwalVhrJOD2hG3stCsrQpVePLMxla8rKCYjQ71upYklDBMxUqIC7kBfOf7b2n0H4SwsrSfS+dhAuja8Ny6dHi4hy/PcVuMaBuGGVNRLWt0tpW2tmfbUzjkp6hSMEjx++xZV5fLlyrHpMWPvoEzHsS/zL2kWIQxwkzN33WTITUbIvNPWPpFiNYodgsNqwqJASdXYohZNw/WyDq/DW4I4p91Tgk2x2FQIDAQAB-----END PUBLIC KEY-----",
+      "apiurl": "https://api.authentication.sap.hana.ondemand.com",
+      "identityzone": "opsintdev",
+      "identityzoneid": "0693a963-dfa8-4635-9a34-37808e83ee94",
+      "tenantid": "0693a963-dfa8-4635-9a34-37808e83ee94",
+      "zoneid": "0693a963-dfa8-4635-9a34-37808e83ee94"
+    }
+  }

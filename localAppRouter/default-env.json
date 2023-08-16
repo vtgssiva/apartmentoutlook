@@ -1,0 +1,71 @@
+{
+    "destinations": [
+      {
+        "name": "cpicfconfigurations",
+        "url": "https://it-cfconfigurations-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/config/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfoperations",
+        "url": "https://it-cfoperations-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/operations/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfswupdate",
+        "url": "https://it-cfswupdate-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/swupdate/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfmonitor",
+        "url": "https://it-cfmonitoring-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/monitoring/",
+        "forwardAuthToken": true,
+        "strictSSL": false,
+        "timeout": 120000
+      },
+      {
+        "name": "loadbalancerapi",
+        "url": "https://it-cfloadbalancer-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/loadbalancer/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfspcmetadata",
+        "url": "https://it-cfspcmetadata-dev.internal.cfapps.sap.hana.ondemand.com/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfcommunication",
+        "url": "https://it-cfcommunication-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/communication/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfprovmon",
+        "url": "https://it-cfprovmon-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfbirdy",
+        "url": "https://it-cfbirdy-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/birdy/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cpicfeventprocessor",
+        "url": "https://it-cfeventprocessor-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      },
+      {
+        "name": "cfdbmigration",
+        "url": "https://it-cfdbmigration-dev.internal.cfapps.sap.hana.ondemand.com/api/v1/db-migration",
+        "forwardAuthToken": true,
+        "strictSSL": false
+      }
+    ]
+  }

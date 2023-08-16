@@ -1,0 +1,13 @@
+{
+    "leftMenu" : [
+        {
+            "title": "Blue Print",
+            "reference": "blueprint"
+        },
+        {
+            "title": "Maintenance",
+            "reference": "maintenance"
+        }
+    ]
+}
+

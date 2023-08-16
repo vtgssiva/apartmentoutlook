@@ -1,0 +1,10 @@
+{
+	"name": "com.exercise",
+	"description": "",
+	"devDependencies": {
+		"@sap/grunt-sapui5-bestpractice-build": "1.4.1"
+	},
+	"scripts": {
+		"lint": "eslint --rulesdir .eslintrules/ -f html -o reports/eslint-results.html webapp/"
+	}
+}
