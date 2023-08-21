@@ -1,0 +1,31 @@
+{
+    "maintenance" : [
+        {
+            "bill_date": "01-0-2023",
+            "bill_no": "CA_EB_002",
+            "service_provided": "Common Area Electricity Bill",
+            "vendor": "TNEB",
+            "bill_amount": 250000.00,
+            "cleared_amount": 245000.00,
+            "outstanding_amount": 5000.00
+        },
+        {
+            "bill_date": "01-0-2023",
+            "bill_no": "CA_EB_045",
+            "service_provided": "Block-A Common Area Electricity Bill",
+            "vendor": "TNEB",
+            "bill_amount": 100000.00,
+            "cleared_amount": 100000.00,
+            "outstanding_amount": 0
+        },
+        {
+            "bill_date": "01-0-2023",
+            "bill_no": "CA_EB_002",
+            "service_provided": "Block-B Common Area Electricity Bill",
+            "vendor": "TNEB",
+            "bill_amount": 50000.00,
+            "cleared_amount": 50000.00,
+            "outstanding_amount": 0
+        }
+    ]
+}
